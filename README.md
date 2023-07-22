@@ -1,6 +1,11 @@
 ## Olá! Eu sou o Thiago Almeida 👋, estudante de programação e tecnologia
 
-- 🌱 Atualmente estudando as tecnologias *Pytho*n, *Javascript* e *SQL*
+#### 🌱 Atualmente estudando as tecnologias
+<div style="display: inline_block"><br>
+  <img align="center" alt="Thiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Thiago-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
 
 ---
 <a href="https://github.com/ThiagoDCode">
@@ -9,12 +14,6 @@
 <a href="https://github.com/ThiagoDCode">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoDCode&layout=compact&langs_count=8&card_width=100" />
 </a>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Thiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Thiago-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
 
 ---
 ## Contato
