@@ -2,12 +2,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=279b7f&size=35&center=true&vCenter=true&width=1000&lines=Olá+👋,+Meu+nome+é+Thiago+Almeida;Sou+estudante+de+Engenharia+de+Software+e,;+apaixonado+por+Tecnologia!+:%29)](https://git.io/typing-svg)
 
-<div align="center"> 
-<a href="https://instagram.com/lee_thiago" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:thiago.silva.contato1@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/thiago-almeida-dcode" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-  <a href="https://discord.gg/dallasdev" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
- </div>
+
+<p align="center" style="background:yellow">
+<a href="https://twitter.com/ThiagoDCode" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-ThiagoDCode-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://linkedin.com/in/thiago-almeida-dcode" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Thiago Almeida-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/lee_thiago" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Thiago Almeida-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://discord.gg/dallasdev" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Dallas Dev-05122A?style=flat&logo=discord" alt="discord"/>
+</a>
+</p>
 
 ---
 
@@ -18,7 +27,7 @@
 
 ---
 
-### Main skills:
+### 🛠 Main skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Thiago-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
