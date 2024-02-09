@@ -14,9 +14,6 @@ Olá 👋, meu nome é Thiago Almeida. Sou 🎓estudante de Engenharia de Softwa
 <a href="https://instagram.com/lee_thiago" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Thiago Almeida-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://discord.gg/dallasdev" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Dallas Dev-05122A?style=flat&logo=discord" alt="discord"/>
-</a>
 </p>
 
 ---
@@ -27,7 +24,7 @@ Olá 👋, meu nome é Thiago Almeida. Sou 🎓estudante de Engenharia de Softwa
   <img align="center" alt="Thiago-MySQL" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Thiago-HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Thiago-CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Thiago-Lua" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg">
+  <img align="center" alt="Thiago-Lua" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
 </div>
 
 ---
