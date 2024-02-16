@@ -1,7 +1,7 @@
 <img src="https://github.com/ThiagoDCode/ThiagoDCode/blob/main/imagem/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-Olá 👋, meu nome é Thiago Almeida. Sou 🎓estudante de Engenharia de Software, e apaixonado por Games e Tecnologia!
+Estudante de Engenharia de Software, e apaixonado por Games e Tecnologia!
 </p>
 
 <p align="center" style="background:yellow">
