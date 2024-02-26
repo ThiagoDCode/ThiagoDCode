@@ -1,15 +1,15 @@
-<img src="https://github.com/ThiagoDCode/ThiagoDCode/blob/main/imagem/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/ThiagoDCode/ThiagoDCode/blob/main/imagem/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
 
 <p align="left">
 Estudante de Engenharia de Software, e apaixonado por Games e Tecnologia!
 </p>
 
 <p align="center" style="background:yellow">
-<a href="https://twitter.com/ThiagoDCode" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ThiagoDCode-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
 <a href="https://linkedin.com/in/thiago-almeida-dcode" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Thiago Almeida-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://twitter.com/ThiagoDCode" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-ThiagoDCode-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://instagram.com/lee_thiago" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Thiago Almeida-05122A?style=flat&logo=instagram" alt="instagram"/>
@@ -17,14 +17,13 @@ Estudante de Engenharia de Software, e apaixonado por Games e Tecnologia!
 </p>
 
 ---
-
-### 🛠 Skills:
+### Skills:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Thiago-Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Thiago-MySQL" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Thiago-HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Thiago-CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Thiago-Lua" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
+  <img align="center" alt="Thiago-Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Thiago-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Thiago-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Thiago-Lua" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
+  <img align="center" alt="Thiago-MySQL" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
 ---
