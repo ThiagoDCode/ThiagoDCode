@@ -1,20 +1,11 @@
 <img src="https://github.com/ThiagoDCode/ThiagoDCode/blob/main/imagem/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
 
-<p align="left">
+<p align="center">
 Estudante de Engenharia de Software, e apaixonado por Games e Tecnologia!
 </p>
 
-<p align="center" style="background:yellow">
-<a href="https://linkedin.com/in/thiago-almeida-dcode" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Thiago Almeida-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://twitter.com/ThiagoDCode" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ThiagoDCode-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://instagram.com/lee_thiago" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Thiago Almeida-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
+[![E-mail](https://img.shields.io/static/v1?label=&message=E-mail&color=blueviolet&logoColor=white&logo=gmail)](thiago.lee.oficial@gmail.com "Enviar e-mail.")
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&logoColor=white&logo=LinkedIn)](https://www.linkedin.com/in/thiago-almeida-dcode "Acessar.")
 
 ---
 ### Skills:
