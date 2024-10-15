@@ -1,14 +1,14 @@
 <img src="https://github.com/ThiagoDCode/ThiagoDCode/blob/main/imagem/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
 
 <p align="center">
-Estudante de Engenharia de Software, e apaixonado por Games e Tecnologia!
+Estudante de Engenharia de Software, apaixonado por Games e Tecnologia!
 </p>
 
 [![E-mail](https://img.shields.io/static/v1?label=&message=E-mail&color=blueviolet&logoColor=white&logo=gmail)](thiago.lee.oficial@gmail.com "Enviar e-mail.")
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&logoColor=white&logo=LinkedIn)](https://www.linkedin.com/in/thiago-almeida-dcode "Acessar.")
 
 ---
-### Skills:
+##### ⚙️ Languages & Tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Thiago-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
